@@ -3,9 +3,9 @@ a=10
 print("number of lines it contains: ",a)
 n=input("enter your name: ")
 print("student name: ",n)
-m1=int(input("enter your marks"))
-m2=int(input())
-m3=int(input())
-print("marks: ",m1,m2,m3)
-avg=(m1+m2+m3)/3
+n1=int(input("enter your marks"))
+n2=int(input())
+n3=int(input())
+print("marks: ",n1,n2,n3)
+avg=(n1+n2+n3)/3
 print("average: ",avg)
